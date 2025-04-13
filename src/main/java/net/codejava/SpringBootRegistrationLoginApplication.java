@@ -11,4 +11,3 @@ public class SpringBootRegistrationLoginApplication {
 	}
 
 }
-dasdas
